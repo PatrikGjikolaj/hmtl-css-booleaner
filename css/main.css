@@ -5,7 +5,7 @@ header{
     height: 175px;
 }
 #logo{
-    width: 10%;
+    width: 15%;
     height: 250px;
 }
 .caratterib{
@@ -48,4 +48,7 @@ tbody{
     height: 200px;
     background-image: url(../img/graph.jpg);
     color: lightgray;
+}
+.testog{
+    color: grey;
 }
